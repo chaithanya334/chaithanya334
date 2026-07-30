@@ -82,24 +82,33 @@ https://github.com/chaithanya334/COVID-19-Severity-Classifier
 
 ## 📊 GitHub Stats
 
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=chaithanya334&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaithanya334&theme=tokyo-night)
+</p>
 
-```
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=chaithanya334&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaithanya334&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ## 🐍 Contribution Snake
 
-Use GitHub Actions to generate a contribution snake and embed:
+<p align="center">
 
-```md
-![Snake](https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake.svg)
-```
+<img src="https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ## 📫 Connect
 
