@@ -105,9 +105,7 @@ https://github.com/chaithanya334/COVID-19-Severity-Classifier
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ## 📫 Connect
