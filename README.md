@@ -59,7 +59,7 @@ A Power BI dashboard analyzing regional housing market data — sales trends, of
 **COVID-19 Patient Severity Classifier**
 A desktop ML application that classifies patient severity (Mild / Moderate / Severe) from clinical parameters (SpO2, respiratory rate, CRP) using a Random Forest classifier, built to help clinicians prioritize care faster.
 - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib, Tkinter
-- Repository: [github.com/chaithanya334/COVID-19-Severity-Classifier](https://github.com/chaithanya334/COVID-19-Severity-Classifier)
+- Repository: https://github.com/chaithanya334/covid-19-project
 
 ---
 
@@ -76,10 +76,6 @@ A desktop ML application that classifies patient severity (Mild / Moderate / Sev
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=chaithanya334&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
