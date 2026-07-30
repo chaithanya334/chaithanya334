@@ -54,7 +54,7 @@ An interactive Power BI dashboard analyzing customer accounts, balances, and tra
 **Housing Market Insights Dashboard**
 A Power BI dashboard analyzing regional housing market data — sales trends, offer vs. selling price, house type performance, and revenue by region — to support pricing and investment decisions.
 - Tech Stack: Power BI, DAX, Power Query, Excel
-- Repository: [github.com/chaithanya334/Housing-Market-Insights](https://github.com/chaithanya334/Housing-Market-Insights)
+- Repository:https://github.com/chaithanya334/Regional-Housing-Market-Insights-Dashboard
 
 **COVID-19 Patient Severity Classifier**
 A desktop ML application that classifies patient severity (Mild / Moderate / Severe) from clinical parameters (SpO2, respiratory rate, CRP) using a Random Forest classifier, built to help clinicians prioritize care faster.
