@@ -72,25 +72,29 @@ A desktop ML application that classifies patient severity (Mild / Moderate / Sev
 
 ---
 
-## GitHub Stats
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" />
+## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=chaithanya334&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaithanya334&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanya334&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&sideLabels=ffffff&dates=ffffff" />
 
-</div>
+## 🐍 Contribution Snake
 
----
-
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ### Let's build something with data.
 
