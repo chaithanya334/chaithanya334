@@ -71,9 +71,6 @@ A desktop ML application that classifies patient severity (Mild / Moderate / Sev
 - Refining dashboard storytelling and KPI design
 
 ---
-
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -96,11 +93,12 @@ A desktop ML application that classifies patient severity (Mild / Moderate / Sev
   <img src="https://raw.githubusercontent.com/chaithanya334/chaithanya334/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-### Let's build something with data.
+### 💡 *"Coding with purpose, innovating with passion."* 🚀🎵
 
-I'm actively looking for my first Data Analyst opportunity — if my work here is a fit for your team, let's connect.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contactnchaithanya)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaithubushan9@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 </div>
+
+
