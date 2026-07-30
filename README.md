@@ -1,120 +1,380 @@
-<h1 align="center">Hi there 👋, I'm Chaithanya N</h1>
-<h3 align="center">Aspiring Data Analyst Fresher | MCA Graduate</h3>
+<h1 align="center">Hi 👋, I'm Chaithanya N</h1>
+<h3 align="center">Aspiring Data Analyst | MCA Graduate | Power BI • SQL • Python • Snowflake</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chaithanya%20N%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20Fresher%20%7C%20MCA%20Graduate&descAlignY=55&descSize=18" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chaithanya%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Transforming%20Data%20into%20Meaningful%20Business%20Insights&descSize=18&descAlignY=60"/>
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaithanya334&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=chaithanya334&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/contactnchaithanya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaithubushan9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chaithanya334"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/contactnchaithanya/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chaithubushan9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chaithanya334">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-- 🎓 MCA graduate
-- 📍 Based in Chikkaballapur, Karnataka, India
-- 📊 Aspiring Data Analyst Fresher
-- 🚀 Completed a Data Analyst boot camp
-- 🐍 Skilled in Power BI, SQL, Excel, and Python libraries
-- ☁️ Used Snowflake for creating dashboards and analytics solutions
-- 🔎 Currently working on personal data analytics projects
-- 💼 Preparing for interviews and building a strong portfolio
-- 🎯 Goal: land my first role in data analytics
+🎓 MCA Graduate
+
+📍 Chikkaballapur, Karnataka, India
+
+📊 Aspiring Data Analyst passionate about turning raw data into business insights.
+
+💡 Skilled in designing interactive dashboards, developing KPIs, and solving business problems using data.
+
+🚀 Completed an intensive Data Analyst Bootcamp with hands-on experience in real-world analytics projects.
+
+🌱 Currently strengthening SQL, Python, Power BI, and Snowflake while building analytics projects.
+
+🎯 **Career Goal:** Secure a Data Analyst role where I can contribute through data-driven decision-making and business intelligence.
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
+
+### Programming & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQL-00AFF0?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-21A366?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+</p>
+
+### Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-005A9C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+### Python Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
 
 ---
 
-## Featured Projects
-
-### 1. Banking Account Analytics Dashboard
-A two-page interactive Power BI dashboard designed to analyze banking account and transaction data. It tracks transaction trends, account balances, inactive accounts, and customer demographics to support better business decision-making.
-
-**Highlights:**
-- Built SQL Server-based data preparation pipeline.
-- Developed KPIs and interactive visuals using DAX.
-- Analyzed customer and transaction behavior for actionable insights.
-
-**Tech Stack:** Power BI, SQL Server, DAX
+# 📊 Featured Analytics Projects
 
 ---
 
-### 2. Regional Housing Market Insights Dashboard
-A three-page Power BI dashboard that explores regional housing market patterns across four regions. It highlights sales trends, offer vs. purchase price comparisons, and house type performance using clear and interactive visuals.
-
-**Highlights:**
-- Used Power Query for data cleaning and transformation.
-- Created custom DAX measures for advanced analysis.
-- Designed dashboard pages for regional trend comparison and storytelling.
-
-**Tech Stack:** Power BI, Power Query, DAX
-
----
-
-### 3. COVID-19 Severity Classifier
-A machine learning-based patient severity classification tool that predicts COVID-19 cases as Mild, Moderate, Severe, or Critical. The project includes a pretrained Random Forest model and a Streamlit GUI for live predictions.
-
-**Highlights:**
-- Built with a Random Forest classifier for severity prediction.
-- Added an interactive Streamlit dashboard for user-friendly input and output.
-- Included feature importance visualization and retraining support.
-
-**Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, Matplotlib
-
----
-
-## Currently Working On
-
-- 🔄 Building more data analytics projects independently
-- 📈 Strengthening dashboard design and storytelling
-- 🧠 Preparing for data analyst interviews
-- ⚙️ Improving Python, SQL, and Power BI skills
-- 🌱 Continuing to grow in analytics and visualization
-
----
-
-## GitHub Stats
+# 🏦 Banking Account Analytics Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=radical&hide_border=true" />
+<img src="YOUR_BANKING_IMAGE_LINK" width="900">
+</p>
+
+### Business Problem
+
+Banks require a centralized dashboard to monitor customer accounts, transaction behavior, and financial performance for better strategic decisions.
+
+### Dashboard Analytics
+
+✔ Customer Demographics Analysis
+
+✔ Active vs Inactive Accounts
+
+✔ Monthly Transaction Trends
+
+✔ Deposit & Withdrawal Analysis
+
+✔ Branch-wise Performance
+
+✔ Account Balance Distribution
+
+✔ Occupation Analysis
+
+✔ Customer Segmentation
+
+### Key KPIs
+
+- Total Customers
+- Total Accounts
+- Total Balance
+- Total Deposits
+- Total Withdrawals
+- Active Accounts
+- Inactive Accounts
+- Average Account Balance
+
+### Business Insights
+
+📌 Identified inactive customers requiring engagement.
+
+📌 Compared deposits and withdrawals across multiple periods.
+
+📌 Analyzed customer behavior by occupation and demographics.
+
+📌 Monitored branch performance using interactive KPIs.
+
+📌 Enabled better financial reporting and customer analytics.
+
+### Technologies
+
+**Power BI • SQL Server • DAX • Power Query**
+
+---
+
+# 🏡 Regional Housing Market Insights Dashboard
+
+<p align="center">
+<img src="YOUR_HOUSING_IMAGE_LINK" width="900">
+</p>
+
+### Business Problem
+
+Real estate professionals require market intelligence to analyze pricing trends, property demand, and regional performance.
+
+### Dashboard Analytics
+
+✔ Regional Sales Analysis
+
+✔ Offer Price vs Selling Price
+
+✔ House Type Analysis
+
+✔ Sales Trend Analysis
+
+✔ Regional Performance Comparison
+
+✔ Median Price Analysis
+
+✔ Average Selling Price
+
+✔ Property Distribution
+
+### Key KPIs
+
+- Total Houses Sold
+- Average Sale Price
+- Median Sale Price
+- Offer Price
+- Total Revenue
+- Regional Growth
+- Sales Volume
+
+### Business Insights
+
+📌 Compared regional housing markets.
+
+📌 Identified high-performing regions.
+
+📌 Measured pricing differences between asking and selling prices.
+
+📌 Tracked housing demand across multiple property types.
+
+📌 Supported better investment decisions using market analytics.
+
+### Technologies
+
+**Power BI • Power Query • DAX • Excel**
+
+---
+
+# 🤖 COVID-19 Severity Prediction System
+
+<p align="center">
+<img src="YOUR_COVID_IMAGE_LINK" width="900">
+</p>
+
+### Business Problem
+
+Healthcare providers require fast patient severity assessment to prioritize treatment efficiently.
+
+### Machine Learning Analytics
+
+✔ Random Forest Classification
+
+✔ Severity Prediction
+
+✔ Feature Importance
+
+✔ Model Accuracy Evaluation
+
+✔ Live Prediction Dashboard
+
+✔ Interactive Streamlit Application
+
+### Prediction Categories
+
+- Mild
+- Moderate
+- Severe
+- Critical
+
+### Features
+
+✔ Real-time Prediction
+
+✔ Interactive UI
+
+✔ Model Retraining
+
+✔ Feature Importance Visualization
+
+✔ Classification Report
+
+### Business Value
+
+📌 Assists healthcare professionals in patient prioritization.
+
+📌 Reduces manual assessment time.
+
+📌 Provides explainable AI predictions.
+
+📌 Improves operational efficiency.
+
+### Technologies
+
+**Python • Streamlit • Scikit-Learn • Pandas • Matplotlib**
+
+---
+
+# 📈 Analytics Skills
+
+✔ Data Cleaning
+
+✔ Data Transformation
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ KPI Design
+
+✔ Data Storytelling
+
+✔ Business Intelligence
+
+✔ SQL Query Writing
+
+✔ DAX Measures
+
+✔ ETL Concepts
+
+✔ Exploratory Data Analysis
+
+✔ Machine Learning Fundamentals
+
+✔ Report Automation
+
+✔ Interactive Dashboard Design
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Advanced DAX
+- Snowflake Cloud Data Warehouse
+- Python for Data Analytics
+- Machine Learning
+- Dashboard Storytelling
+- Data Modeling
+- Data Warehousing
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaithanya334&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya334&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanya334&theme=radical&hide_border=true" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=chaithanya334&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Connect With Me
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/contactnchaithanya/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaithubushan9@gmail.com"><img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chaithanya334"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaithanya334&theme=tokyonight&row=1&column=6"/>
+
 </p>
 
+---
+
+# 📫 Connect With Me
+
 <p align="center">
-  <i>Coding with purpose, innovating with passion.</i>
+
+<a href="https://www.linkedin.com/in/contactnchaithanya/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:chaithubushan9@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/chaithanya334">
+
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
 </p>
+
+---
+
+<h3 align="center">
+
+💡 "Without data, you're just another person with an opinion."
+
+</h3>
+
+<h3 align="center">
+
+⭐ If you like my projects, consider giving them a Star!
+
+</h3>
