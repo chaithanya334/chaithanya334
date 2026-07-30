@@ -49,7 +49,7 @@ Open to Data Analyst / BI Analyst / Power BI Developer roles.
 **Banking Account Analytics Dashboard**
 An interactive Power BI dashboard analyzing customer accounts, balances, and transaction behavior for a banking dataset. Covers customer segmentation, deposit/withdrawal trends, branch performance, and active vs. inactive account tracking to support engagement and reporting decisions.
 - Tech Stack: Power BI, SQL Server, DAX, Power Query
-- Repository: [github.com/chaithanya334/Banking-Account-Analytics-Dashboard](https://github.com/chaithanya334/Banking-Account-Analytics-Dashboard)
+- Repository:https://github.com/chaithanya334/bank-transaction-insights-dashboard
 
 **Housing Market Insights Dashboard**
 A Power BI dashboard analyzing regional housing market data — sales trends, offer vs. selling price, house type performance, and revenue by region — to support pricing and investment decisions.
