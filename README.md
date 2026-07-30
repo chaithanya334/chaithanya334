@@ -28,21 +28,19 @@
 
 ## About Me
 
-I'm **Chaithanya N**, an aspiring **Data Analyst** focused on turning raw data into clear, actionable business insights. I work with **Power BI, SQL, Python, DAX, and Power Query** to build dashboards, design KPIs, and surface trends that support decision-making. I also bring a frontend development background that helps me present data more effectively.
+Aspiring **Data Analyst** who turns raw data into clear business insights using **Power BI, SQL, and Python**. I build end-to-end analytics projects independently and I'm currently expanding into **Snowflake**.
 
-I build end-to-end analytics projects independently — from data cleaning to dashboard delivery — spanning banking, real estate, and healthcare, and I'm currently expanding into **Snowflake** and advanced SQL.
-
-📍 Based in Sidlaghatta, Karnataka, India · Actively seeking Data Analyst / BI Analyst / Power BI Developer roles
+Open to Data Analyst / BI Analyst / Power BI Developer roles.
 
 ---
 
 ## Tech Stack
 
-**BI & Data Prep:** Power BI · DAX · Power Query · Excel
-**Languages:** Python · SQL
-**Data Warehousing:** Snowflake
-**Python Libraries:** Pandas · NumPy · Matplotlib · Scikit-learn · Streamlit
-**Tools:** Git · GitHub · VS Code · Jupyter
+- **BI & Data Prep:** Power BI, DAX, Power Query, Excel
+- **Languages:** Python, SQL
+- **Data Warehousing:** Snowflake
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit
+- **Tools:** Git, GitHub, VS Code, Jupyter
 
 ---
 
@@ -50,18 +48,18 @@ I build end-to-end analytics projects independently — from data cleaning to da
 
 **Banking Account Analytics Dashboard**
 An interactive Power BI dashboard analyzing customer accounts, balances, and transaction behavior for a banking dataset. Covers customer segmentation, deposit/withdrawal trends, branch performance, and active vs. inactive account tracking to support engagement and reporting decisions.
-`Power BI` `SQL Server` `DAX` `Power Query`
-🔗 [Repository](https://github.com/chaithanya334/Banking-Account-Analytics-Dashboard)
+- Tech Stack: Power BI, SQL Server, DAX, Power Query
+- Repository: [github.com/chaithanya334/Banking-Account-Analytics-Dashboard](https://github.com/chaithanya334/Banking-Account-Analytics-Dashboard)
 
 **Housing Market Insights Dashboard**
 A Power BI dashboard analyzing regional housing market data — sales trends, offer vs. selling price, house type performance, and revenue by region — to support pricing and investment decisions.
-`Power BI` `DAX` `Power Query` `Excel`
-🔗 [Repository](https://github.com/chaithanya334/Housing-Market-Insights)
+- Tech Stack: Power BI, DAX, Power Query, Excel
+- Repository: [github.com/chaithanya334/Housing-Market-Insights](https://github.com/chaithanya334/Housing-Market-Insights)
 
 **COVID-19 Patient Severity Classifier**
 A desktop ML application that classifies patient severity (Mild / Moderate / Severe) from clinical parameters (SpO2, respiratory rate, CRP) using a Random Forest classifier, built to help clinicians prioritize care faster.
-`Python` `Scikit-learn` `Pandas` `Matplotlib` `Tkinter`
-🔗 [Repository](https://github.com/chaithanya334/COVID-19-Severity-Classifier)
+- Tech Stack: Python, Scikit-learn, Pandas, Matplotlib, Tkinter
+- Repository: [github.com/chaithanya334/COVID-19-Severity-Classifier](https://github.com/chaithanya334/COVID-19-Severity-Classifier)
 
 ---
 
